@@ -1,0 +1,10 @@
+back
+-python fastapi
+-mongo+postgres?
+-numpy, fuzzy, nlp etc.
+front
+-next
+-mui
+-ts
+-redux
+-axios
